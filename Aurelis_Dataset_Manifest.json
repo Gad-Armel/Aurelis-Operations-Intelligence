@@ -1,97 +1,113 @@
 {
-  "build": "Aurelis Obsidian Command v8.5 Executive Finish Statistical Probability and Quote Studio 2018-2026",
-  "final_r_file": "app.R",
-  "default_analyst_identity": "Armel Asopjio",
-  "analyst_full_access_local_build": true,
-  "relationship_flow_numeric_metrics": true,
-  "atlas_map_payload_reduced": true,
-  "quotation_catalog_add_to_quote": true,
-  "quotation_saved_draft_quick_switch": true,
-  "statistics_separate_sidebar_menu": true,
-  "statistics_cdf_probability_plot": true,
-  "statistics_interval_tail_quantile_calculations": true,
-  "executive_obsidian_champagne_design": true,
-  "subdued_categorical_chart_palette": true,
-  "visual_design": {
-    "theme": "Obsidian glass with champagne accents and ambient light",
-    "typography": "Editorial serif headings, geometric system text, tabular monospaced numerals",
-    "tables": "Low-contrast horizontal dividers and subdued metadata",
-    "reduced_motion_support": true,
-    "single_primary_logo": true
-  },
-  "country_donut_zero_length_guard": true,
-  "atlas_breakdown_full_reset": true,
-  "vector_ui_logo_variants": true,
-  "dark_legacy_panel_readability": true,
-  "selectize_layering_hardening": true,
-  "adaptive_long_kpi_values": true,
-  "bs4dash_navbar_dropdown_regression_fixed": true,
-  "navbar_custom_li_without_dropdown": 0,
-  "sidebar_logo_compact": true,
-  "sidebar_expanded_on_desktop": true,
-  "responsive_auto_resize": true,
-  "financial_statistics_lab": {
-    "datasets": [
-      "revenue",
-      "accounts_receivable",
-      "purchase_orders",
-      "inventory"
-    ],
-    "distributions": [
-      "normal",
-      "student_t",
-      "F_distribution",
-      "log_normal",
-      "exponential",
-      "gamma",
-      "poisson",
-      "empirical"
-    ],
-    "probability_calculations": [
-      "left_tail_cdf",
-      "right_tail",
-      "interval_probability",
-      "quantile"
-    ],
-    "comparison_tests": [
-      "welch_t_test",
-      "wilcoxon_rank_sum",
-      "classical_one_way_F_test",
-      "welch_one_way",
-      "kruskal_wallis"
-    ],
-    "group_numerical_summaries": [
-      "sample_size",
-      "mean",
-      "median",
-      "standard_deviation",
-      "95_percent_mean_confidence_interval"
-    ],
-    "missing_value_policies": [
-      "exclude",
-      "median_impute_for_analysis_only"
-    ]
-  },
-  "missing_supplier_representatives_labeled": "Unassigned",
-  "author_signature_each_page": "Created by Armel Asopjio",
-  "years": [
-    2018,
-    2019,
-    2020,
-    2021,
-    2022,
-    2023,
-    2024,
-    2025,
-    2026
-  ],
-  "purchase_orders": 2025,
-  "inventory_lines": 10255,
-  "revenue_rows": 1896,
-  "ar_rows": 1896,
-  "transaction_reduction_strategy": "year/customer/buyer/month-preserving PO sample",
-  "automatic_refresh_seconds": 900,
-  "author": "Armel Asopjio",
-  "target_po_per_year": 225,
-  "sampling_strategy": "preserve all active customers, buyers and months; sample remaining POs"
+    "build":  "Aurelis Operations Intelligence - Analysis Lab 2026-10-15",
+    "final_r_file":  "app.R",
+    "default_analyst_identity":  "Armel Asopjio",
+    "analyst_full_access_local_build":  true,
+    "relationship_flow_numeric_metrics":  true,
+    "atlas_map_payload_reduced":  true,
+    "quotation_catalog_add_to_quote":  true,
+    "quotation_saved_draft_quick_switch":  true,
+    "statistics_separate_sidebar_menu":  true,
+    "statistics_cdf_probability_plot":  true,
+    "statistics_interval_tail_quantile_calculations":  true,
+    "executive_obsidian_champagne_design":  false,
+    "subdued_categorical_chart_palette":  true,
+    "visual_design":  {
+                          "theme":  "Quiet obsidian surfaces, restrained mint and blue accents, optional light workspace",
+                          "typography":  "System sans-serif, compact hierarchy and tabular numerals",
+                          "tables":  "Dense structured tables, horizontal dividers, server-side search and paging",
+                          "reduced_motion_support":  true,
+                          "single_primary_logo":  true
+                      },
+    "country_donut_zero_length_guard":  true,
+    "atlas_breakdown_full_reset":  true,
+    "vector_ui_logo_variants":  true,
+    "dark_legacy_panel_readability":  true,
+    "selectize_layering_hardening":  true,
+    "adaptive_long_kpi_values":  true,
+    "bs4dash_navbar_dropdown_regression_fixed":  true,
+    "navbar_custom_li_without_dropdown":  0,
+    "sidebar_logo_compact":  true,
+    "sidebar_expanded_on_desktop":  true,
+    "responsive_auto_resize":  true,
+    "financial_statistics_lab":  {
+                                     "datasets":  [
+                                                      "revenue",
+                                                      "accounts_receivable",
+                                                      "purchase_orders",
+                                                      "inventory"
+                                                  ],
+                                     "distributions":  [
+                                                           "normal",
+                                                           "student_t",
+                                                           "F_distribution",
+                                                           "log_normal",
+                                                           "exponential",
+                                                           "gamma",
+                                                           "poisson",
+                                                           "empirical"
+                                                       ],
+                                     "probability_calculations":  [
+                                                                      "left_tail_cdf",
+                                                                      "right_tail",
+                                                                      "interval_probability",
+                                                                      "quantile"
+                                                                  ],
+                                     "comparison_tests":  [
+                                                              "welch_t_test",
+                                                              "wilcoxon_rank_sum",
+                                                              "classical_one_way_F_test",
+                                                              "welch_one_way",
+                                                              "kruskal_wallis"
+                                                          ],
+                                     "group_numerical_summaries":  [
+                                                                       "sample_size",
+                                                                       "mean",
+                                                                       "median",
+                                                                       "standard_deviation",
+                                                                       "95_percent_mean_confidence_interval"
+                                                                   ],
+                                     "missing_value_policies":  [
+                                                                    "exclude",
+                                                                    "median_impute_for_analysis_only"
+                                                                ]
+                                 },
+    "missing_supplier_representatives_labeled":  "Unassigned",
+    "author_signature_each_page":  "Created by Armel Asopjio",
+    "years":  [
+                  2018,
+                  2019,
+                  2020,
+                  2021,
+                  2022,
+                  2023,
+                  2024,
+                  2025,
+                  2026
+              ],
+    "purchase_orders":  2025,
+    "inventory_lines":  10255,
+    "revenue_rows":  1896,
+    "ar_rows":  1896,
+    "transaction_reduction_strategy":  "year/customer/buyer/month-preserving PO sample",
+    "automatic_refresh_seconds":  300,
+    "author":  "Armel Asopjio",
+    "target_po_per_year":  225,
+    "sampling_strategy":  "preserve all active customers, buyers and months; sample remaining POs",
+    "workspace_upgrade":  {
+                              "date":  "2026-10-15",
+                              "runtime":  "R Shiny / bs4Dash",
+                              "theme":  "Dark-first quiet surfaces with optional light workspace",
+                              "data_explorer":  "All supported tables in data/, session imports, typed filters, column searches, CSV export",
+                              "analysis":  [
+                                               "profiling",
+                                               "hypothesis tests",
+                                               "linear baseline forecasting",
+                                               "correlation and regression diagnostics",
+                                               "empirical scenarios",
+                                               "mapped financial metrics",
+                                               "safe formula and chart builder"
+                                           ],
+                              "insights":  "Computed rule-based briefs; no external generative AI connection"
+                          }
 }

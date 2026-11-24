@@ -7,3 +7,7 @@
 !.env.example
 exports/
 *.log
+
+# Dashboard runtime records
+data/aurelis_activity_log.csv
+data/client_inquiry_records.csv
