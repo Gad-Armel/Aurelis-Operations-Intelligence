@@ -7,6 +7,10 @@
 !.env.example
 exports/
 *.log
+*.png
+*.jpg
+*.jpeg
+*.webp
 
 # Dashboard runtime records
 data/aurelis_activity_log.csv
