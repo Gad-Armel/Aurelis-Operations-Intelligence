@@ -324,6 +324,15 @@ body.aurelis-signature.aurelis-future.aurelis-v2.v2-focus .main-header{margin-le
  body.aurelis-signature.aurelis-future.aurelis-v2 .v2-kpi>strong{font-size:23px!important;}
  .v2-mobile-nav button{font-size:9px;}
 }
+@media(max-width:767px){
+ body.aurelis-signature.aurelis-future.aurelis-v2 .v2-toolbar{grid-template-columns:repeat(4,minmax(0,1fr));grid-template-rows:auto 44px;align-items:stretch;}
+ body.aurelis-signature.aurelis-future.aurelis-v2 .v2-toolbar .v2-freshness{grid-column:1/-1;grid-row:1;order:0;white-space:normal;min-height:28px;}
+ body.aurelis-signature.aurelis-future.aurelis-v2 .v2-toolbar .v2-mobile-filter-trigger{grid-column:1;grid-row:2;}
+ body.aurelis-signature.aurelis-future.aurelis-v2 .v2-toolbar [data-v2-action="density"]{grid-column:2;grid-row:2;}
+ body.aurelis-signature.aurelis-future.aurelis-v2 .v2-toolbar [data-v2-action="focus"]{grid-column:3;grid-row:2;}
+ body.aurelis-signature.aurelis-future.aurelis-v2 .v2-toolbar [data-v2-action="alerts"]{grid-column:4;grid-row:2;}
+ body.aurelis-signature.aurelis-future.aurelis-v2 .main-header.navbar{padding-left:max(8px,env(safe-area-inset-left))!important;padding-right:max(8px,env(safe-area-inset-right))!important;}
+}
 
 /* Shared finishing for SVG chart geometry; data and hit targets stay intact. */
 body.aurelis-v2 .js-plotly-plot .scatterlayer .js-line {
